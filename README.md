@@ -1,5 +1,9 @@
 # Linux-Trace-Analysis
 
+- 시스템 성능 지표
+  - 응답: 처리 하나 당 소요시간이 낮을수록 성능이 좋다
+  - 처리량: 단위 시간 당 처리하는 양이 많을수록 성능이 좋다
+
 ![image](https://user-images.githubusercontent.com/46469385/181674134-2aa6eb77-e04d-48d2-8bae-574b9d87f245.png)
 
 ### 1. CPU 병목
